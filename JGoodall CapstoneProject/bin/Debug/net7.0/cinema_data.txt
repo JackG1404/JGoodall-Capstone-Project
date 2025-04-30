@@ -1,0 +1,7 @@
+[Name:Hullywood Cinema]
+[Screen:Screen1%NumStandardSeat:100%NumPremiumSeat:50]
+[Ticket:Standard%800]
+[Ticket:Premium%1200]
+[Concession:Popcorn%500]
+[Staff:1%Level:Manager%FirstName:John%LastName:Doe]
+[Staff:2%Level:General%FirstName:Jane%LastName:Smith]

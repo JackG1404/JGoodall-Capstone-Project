@@ -1,0 +1,7 @@
+[Movie:Gladiator%Length:155%Genre:Action%Rating:18]
+[Movie:Frozen%Length:102%Genre:Animation%Rating:U]
+[Movie:Oppenheimer%Length:180%Genre:Drama%Rating:15]
+[Movie:Avengers: Endgame%Length:181%Genre:Superhero%Rating:12]
+[Movie:Inside Out%Length:95%Genre:Animation%Rating:PG]
+[Movie:Deadpool%Length:190%Genre:Comedy%Rating:18]
+[Movie:Toy Story%Length:81%Genre:Animation%Rating:U]
